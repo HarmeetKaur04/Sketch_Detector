@@ -1,6 +1,6 @@
  # Sketch Detector
 
-A machine learning model for real-time classification of hand-drawn sketches, providing immediate and accurate recognition to enhance user experience. This project utilizes TensorFlow and neural networks for high-performance image classification.
+A machine learning model for classification of hand-drawn sketches, providing immediate and accurate recognition to enhance user experience. This project utilizes TensorFlow and neural networks for high-performance image classification.
 
 ## Features
 - **High accuracy**: Leverages deep learning for precise sketch classification.

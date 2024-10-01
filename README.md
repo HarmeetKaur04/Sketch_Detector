@@ -10,9 +10,9 @@ A machine learning model for real-time classification of hand-drawn sketches, pr
 The model can be trained on hand-drawn sketches from datasets such as Quick, Draw! Dataset.<br>
 
 ## Technologies Used
--TensorFlow: For building and training the neural networks.<br>
--Python: Main programming language used for the project.<br>
--OpenCV (optional): For handling image processing tasks.<br>
+-**TensorFlow**: For building and training the neural networks.<br>
+-**Python**: Main programming language used for the project.<br>
+-**OpenCV (optional)**: For handling image processing tasks.<br>
 
 ## Contribution
 Contributions are welcome! Please open an issue or submit a pull request for any feature suggestions or bug reports.<br>
